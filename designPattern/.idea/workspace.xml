@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="089711f0-af15-4716-8360-eb86b9d332b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\software\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gfkdo8LrS2G0nUnYy08qxxNGPD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="factory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FizzBuzz">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategy.Client" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CycleBarrierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.CycleBarrierTest" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.FizzBuzz" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ZeroEvenOdd" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="optinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.optinal" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.CycleBarrierTest" />
+        <item itemvalue="Application.ZeroEvenOdd" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.optinal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="089711f0-af15-4716-8360-eb86b9d332b8" name="Default Changelist" comment="" />
+      <created>1598513123986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598513123986</updated>
+      <workItem from="1598513126284" duration="2373000" />
+      <workItem from="1598515526329" duration="164000" />
+      <workItem from="1598515947528" duration="7000" />
+      <workItem from="1598516221832" duration="3000" />
+      <workItem from="1598516321546" duration="42000" />
+      <workItem from="1598516437113" duration="156000" />
+      <workItem from="1598516667798" duration="6000" />
+      <workItem from="1598516696224" duration="40000" />
+      <workItem from="1598516837858" duration="24000" />
+      <workItem from="1598516975947" duration="739000" />
+      <workItem from="1598577906472" duration="6000" />
+      <workItem from="1598577955426" duration="26000" />
+      <workItem from="1598578032456" duration="818000" />
+      <workItem from="1598579512872" duration="2925000" />
+      <workItem from="1598594160086" duration="25210000" />
+      <workItem from="1602228658253" duration="3430000" />
+      <workItem from="1606700938358" duration="2212000" />
+      <workItem from="1607413784430" duration="1600000" />
+      <workItem from="1609730104140" duration="6186000" />
+      <workItem from="1611712720987" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1606701333469">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="537" y="156" key="#com.intellij.ide.util.MemberChooser/0.0.1463.874@0.0.1463.874" timestamp="1606701333469" />
+    <state width="428" height="438" key="DebuggerActiveHint" timestamp="1602228988983">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="428" height="438" key="DebuggerActiveHint/0.0.1463.874@0.0.1463.874" timestamp="1602228988983" />
+    <state width="1405" height="191" key="GridCell.Tab.0.bottom" timestamp="1609815396839">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1405" height="191" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1609815396839" />
+    <state width="1405" height="191" key="GridCell.Tab.0.center" timestamp="1609815396839">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1405" height="191" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1609815396839" />
+    <state width="1405" height="191" key="GridCell.Tab.0.left" timestamp="1609815396839">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1405" height="191" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1609815396839" />
+    <state width="1405" height="191" key="GridCell.Tab.0.right" timestamp="1609815396839">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1405" height="191" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1609815396839" />
+    <state width="1420" height="167" key="GridCell.Tab.1.bottom" timestamp="1609739678046">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="167" key="GridCell.Tab.1.bottom/0.0.1463.874@0.0.1463.874" timestamp="1609739678046" />
+    <state width="1420" height="167" key="GridCell.Tab.1.center" timestamp="1609739678046">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="167" key="GridCell.Tab.1.center/0.0.1463.874@0.0.1463.874" timestamp="1609739678046" />
+    <state width="1420" height="167" key="GridCell.Tab.1.left" timestamp="1609739678046">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="167" key="GridCell.Tab.1.left/0.0.1463.874@0.0.1463.874" timestamp="1609739678046" />
+    <state width="1420" height="167" key="GridCell.Tab.1.right" timestamp="1609739678046">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="167" key="GridCell.Tab.1.right/0.0.1463.874@0.0.1463.874" timestamp="1609739678046" />
+    <state x="64" y="196" key="new project wizard" timestamp="1603797759762">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="64" y="196" key="new project wizard/0.0.1463.874@0.0.1463.874" timestamp="1603797759762" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/factory/imlp/DAOFactory.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/factory/imlp/DAOFactory.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/adapter/test.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/adapter/test.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/adapter/test.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/adapter/impl/MQAdapter.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/adapter/vo/RebateInfo.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/adapter/impl/MQAdapter.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bridge/WxPay.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/test.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/ZeroEvenOdd.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/ZeroEvenOdd.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/ZeroEvenOdd.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="create_account.toString()" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

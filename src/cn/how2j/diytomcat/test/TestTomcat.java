@@ -58,6 +58,6 @@ public class TestTomcat {
 
         long duration = timeInterval.intervalMs();
         System.out.println(duration);
-        Assert.assertTrue(duration > 3000);
+        Assert.assertTrue(duration < 3000);
     }
 }

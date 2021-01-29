@@ -1,5 +1,7 @@
 package cn.how2j.diytomcat.http;
 
+import cn.how2j.diytomcat.Bootstrap;
+import cn.how2j.diytomcat.catalina.Context;
 import cn.how2j.diytomcat.util.MiniBrowser;
 import cn.hutool.core.util.StrUtil;
 
@@ -11,6 +13,7 @@ public class Request {
     private String requestString;
     private String uri;
     private Socket socket;
+    private Context context;
 
     private void parseHttpRequest() throws IOException {
        InputStream inputStream =  socket.getInputStream();
@@ -25,6 +28,10 @@ public class Request {
         if(StrUtil.isEmpty(requestString))
             return;
         parseUri();
+        parseContext();
+        if(!"/".equals(context.getPath())){
+            uri = StrUtil.removePrefix(uri,context.getPath());
+        }
     }
 
     private void parseUri() {
@@ -39,11 +46,28 @@ public class Request {
         uri = temp;
     }
 
+    private void parseContext(){
+        String path = StrUtil.subBetween(uri,"/","/");
+        if(null == path){
+            path = "/";
+        }else {
+            path = "/" + path;
+        }
+
+        context = Bootstrap.contextMap.get(path);
+        if(context == null){
+            context = Bootstrap.contextMap.get("/");
+        }
+    }
     public String getRequestString() {
         return requestString;
     }
 
     public String getUri() {
         return uri;
+    }
+
+    public Context getContext() {
+        return context;
     }
 }

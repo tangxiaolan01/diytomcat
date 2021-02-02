@@ -1,6 +1,7 @@
 package cn.how2j.diytomcat;
 
 import cn.how2j.diytomcat.catalina.Context;
+import cn.how2j.diytomcat.catalina.Host;
 import cn.how2j.diytomcat.http.Request;
 import cn.how2j.diytomcat.http.Response;
 import cn.how2j.diytomcat.util.Constant;
@@ -38,7 +39,7 @@ public class Bootstrap {
 //                return;
 //            }
             ServerSocket ss = new ServerSocket(port);
-
+            Host host = new Host();
             while(true) {
                 Socket s =  ss.accept();
                 Runnable runnable = new Runnable() {
@@ -46,7 +47,7 @@ public class Bootstrap {
                     public void run() {
                         Request request = null;
                         try {
-                            request = new Request(s);
+                            request = new Request(s,host);
                         Response response = new Response();
 
                         String uri = request.getUri();

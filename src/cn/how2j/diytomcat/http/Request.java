@@ -2,10 +2,13 @@ package cn.how2j.diytomcat.http;
 
 import cn.how2j.diytomcat.Bootstrap;
 import cn.how2j.diytomcat.catalina.Context;
+import cn.how2j.diytomcat.catalina.Engine;
 import cn.how2j.diytomcat.catalina.Host;
+import cn.how2j.diytomcat.catalina.Service;
 import cn.how2j.diytomcat.util.MiniBrowser;
 import cn.hutool.core.util.StrUtil;
 
+import javax.xml.bind.Element;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.Socket;
@@ -15,7 +18,7 @@ public class Request {
     private String uri;
     private Socket socket;
     private Context context;
-    private Host host;
+    private Service service;
     private void parseHttpRequest() throws IOException {
        InputStream inputStream =  socket.getInputStream();
         byte[] bytes = MiniBrowser.readBytes(inputStream);
@@ -23,9 +26,9 @@ public class Request {
         requestString = new String(bytes,"utf-8");
     }
 
-    public Request(Socket socket,Host host) throws IOException {
+    public Request(Socket socket, Service service) throws IOException {
         this.socket = socket;
-        this.host = host;
+        this.service = service;
 
         parseHttpRequest();
         if(StrUtil.isEmpty(requestString))
@@ -57,9 +60,9 @@ public class Request {
             path = "/" + path;
         }
 
-        context = host.getContext(path);
+        context = service.getEngine().getDefaultHost().getContext(path);
         if(context == null){
-            context = host.getContext("/");
+            context = service.getEngine().getDefaultHost().getContext("/");
         }
     }
     public String getRequestString() {

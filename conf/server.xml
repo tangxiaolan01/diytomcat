@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Server>
-    <Host name = "localhost">
-        <Context path="/b" docBase="d:/project/diytomcat/b" />
-    </Host>
+    <Service name="Catalina">
+    <Engine defautHost = "localhost">
+        <Host name = "localhost">
+            <Context path="/b" docBase="d:/project/diytomcat/b" />
+        </Host>
+    </Engine>
+    </Service>
 </Server>

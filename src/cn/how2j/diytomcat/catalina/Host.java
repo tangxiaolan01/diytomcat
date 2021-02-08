@@ -10,11 +10,13 @@ import java.util.Map;
 
 public class Host {
     private String name;
+    private Engine engine;
     private Map<String,Context> contextMap;
 
-    public Host(){
+    public Host(String name ,Engine engine){
         this.contextMap = new HashMap<>();
-        this.name = ServerXMLUtil.getHostName();
+        this.name = name;
+        this.engine = engine;
         scanContextInServerXMl();
         scanContextOnWebAppsFolder();
 

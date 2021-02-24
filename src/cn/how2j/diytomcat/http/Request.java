@@ -37,6 +37,8 @@ public class Request {
         parseContext();
         if(!"/".equals(context.getPath())){
             uri = StrUtil.removePrefix(uri,context.getPath());
+            if(StrUtil.isEmpty(uri))
+                uri = "/";
         }
     }
 
@@ -53,17 +55,18 @@ public class Request {
     }
 
     private void parseContext(){
-        String path = StrUtil.subBetween(uri,"/","/");
-        if(null == path){
-            path = "/";
-        }else {
-            path = "/" + path;
-        }
-
-        context = service.getEngine().getDefaultHost().getContext(path);
-        if(context == null){
-            context = service.getEngine().getDefaultHost().getContext("/");
-        }
+       Engine engine = service.getEngine();
+       context = engine.getDefaultHost().getContext(uri);
+       if(null != context)
+           return;
+       String path = StrUtil.subBetween(uri,"/","/");
+       if(null == path)
+           path = "/";
+       else
+           path = "/" + path;
+       context = engine.getDefaultHost().getContext(path);
+       if(null == context)
+           context = engine.getDefaultHost().getContext("/");
     }
     public String getRequestString() {
         return requestString;

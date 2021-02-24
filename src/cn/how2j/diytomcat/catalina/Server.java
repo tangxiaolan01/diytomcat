@@ -5,6 +5,7 @@ import cn.how2j.diytomcat.http.Response;
 import cn.how2j.diytomcat.util.Constant;
 import cn.how2j.diytomcat.util.ServerXMLUtil;
 import cn.how2j.diytomcat.util.ThreadPoolUtil;
+import cn.how2j.diytomcat.util.WebXMLUtil;
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.thread.ThreadUtil;
 import cn.hutool.core.util.ArrayUtil;
@@ -60,10 +61,9 @@ public class Server {
                             }
 
                             if("/".equals(uri)){
-                                String html = "Hello DIY Tomcat from how2j.cn";
-                                response.getWriter().println(html);
+                                uri = WebXMLUtil.getWelcomeFile(request.getContext());
                             }
-                            else{
+
                                 String fileName = StrUtil.removePrefix(uri, "/");
                                 System.out.println("docBace =====>"+ context.getDocBase());
                                 System.out.println("fileName =====>"+ fileName);
@@ -83,7 +83,7 @@ public class Server {
                                     handle404(s,uri);
                                     return;
                                 }
-                            }
+
                             handle200(s, response);
                         } catch (Exception e) {
                             e.printStackTrace();

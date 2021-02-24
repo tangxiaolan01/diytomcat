@@ -60,4 +60,10 @@ public class TestTomcat {
         System.out.println(duration);
         Assert.assertTrue(duration < 3000);
     }
+
+    @Test
+    public void testaIndex() {
+        String html = getContentString("/a");
+        Assert.assertEquals(html,"Hello DIY Tomcat from index.html@a");
+    }
 }

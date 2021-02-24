@@ -15,6 +15,9 @@ public class Response {
         this.contentType = "text/html";
     }
 
+    public void setContentType(String contentType){
+        this.contentType = contentType;
+    }
 
     public String getContentType(){
         return contentType;
@@ -29,4 +32,6 @@ public class Response {
         byte[] body = content.getBytes("utf-8");
         return body;
     }
+
+
 }

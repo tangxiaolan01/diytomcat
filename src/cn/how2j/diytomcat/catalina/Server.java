@@ -70,6 +70,9 @@ public class Server {
 
                                 File file = FileUtil.file(context.getDocBase(),fileName);
                                 if(file.exists()){
+                                    String extName = FileUtil.extName(fileName);
+                                    String extType = WebXMLUtil.getMimeType(extName);
+                                    response.setContentType(extType);
                                     String fileContent = FileUtil.readUtf8String(file);
                                     response.getWriter().println(fileContent);
 

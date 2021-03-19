@@ -21,7 +21,7 @@ public class Request {
     private Service service;
     private void parseHttpRequest() throws IOException {
        InputStream inputStream =  socket.getInputStream();
-        byte[] bytes = MiniBrowser.readBytes(inputStream);
+        byte[] bytes = MiniBrowser.readBytes(inputStream,false);
 
         requestString = new String(bytes,"utf-8");
     }

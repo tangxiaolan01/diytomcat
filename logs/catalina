@@ -1,316 +1,58 @@
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Context <init>
+03 09, 2021 17:44:39 下午 cn.how2j.diytomcat.catalina.Context <init>
 INFO : Deploying web application directory d:/project/diytomcat/b
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 77 ms
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Context <init>
+03 09, 2021 17:44:39 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 181 ms
+03 09, 2021 17:44:39 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/c
+03 09, 2021 17:44:39 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/c has finished in 0 ms
+03 09, 2021 17:47:22 下午 cn.how2j.diytomcat.catalina.Context <init>
 INFO : Deploying web application directory D:\project\diytomcat\webapps\a
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Context <init>
+03 09, 2021 17:47:22 下午 cn.how2j.diytomcat.catalina.Context <init>
 INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 0 ms
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Context <init>
+03 09, 2021 17:47:38 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ext
+03 09, 2021 17:47:38 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ext has finished in 0 ms
+03 09, 2021 17:47:40 下午 cn.how2j.diytomcat.catalina.Context <init>
 INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server version:		How2J DiyTomcat/1.0.1
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server built:		2020-04-08 10:20:22
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server number:		1.0.1
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Name	:		Windows 10
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Version:		10.0
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Architecture:		amd64
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Java Home:		D:\software\java\jre
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Version:		1.8.0_261-b12
-02 24, 2021 18:24:00 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Vendor:		Oracle Corporation
-02 24, 2021 18:24:36 下午 cn.how2j.diytomcat.catalina.Context <init>
+03 09, 2021 17:47:40 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 2 ms
+03 09, 2021 17:48:38 下午 cn.how2j.diytomcat.catalina.Context <init>
 INFO : Deploying web application directory d:/project/diytomcat/b
-02 24, 2021 18:24:36 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 172 ms
-02 24, 2021 18:24:36 下午 cn.how2j.diytomcat.catalina.Context <init>
+03 09, 2021 17:48:38 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 1 ms
+03 09, 2021 17:48:38 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/c
+03 09, 2021 17:48:38 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/c has finished in 1 ms
+03 09, 2021 17:48:43 下午 cn.how2j.diytomcat.catalina.Context <init>
 INFO : Deploying web application directory D:\project\diytomcat\webapps\a
-02 24, 2021 18:24:36 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 1 ms
-02 24, 2021 18:24:36 下午 cn.how2j.diytomcat.catalina.Context <init>
+03 09, 2021 17:48:43 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 0 ms
+03 09, 2021 17:48:44 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ext
+03 09, 2021 17:48:44 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ext has finished in 1 ms
+03 09, 2021 17:48:48 下午 cn.how2j.diytomcat.catalina.Context <init>
 INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
-02 24, 2021 18:24:36 下午 cn.how2j.diytomcat.catalina.Context <init>
+03 09, 2021 17:48:48 下午 cn.how2j.diytomcat.catalina.Context <init>
 INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 1 ms
-02 24, 2021 18:24:44 下午 cn.how2j.diytomcat.catalina.Server logJVM
+03 09, 2021 17:48:51 下午 cn.how2j.diytomcat.catalina.Server logJVM
 INFO : Server version:		How2J DiyTomcat/1.0.1
-02 24, 2021 18:24:44 下午 cn.how2j.diytomcat.catalina.Server logJVM
+03 09, 2021 17:48:51 下午 cn.how2j.diytomcat.catalina.Server logJVM
 INFO : Server built:		2020-04-08 10:20:22
-02 24, 2021 18:24:44 下午 cn.how2j.diytomcat.catalina.Server logJVM
+03 09, 2021 17:48:51 下午 cn.how2j.diytomcat.catalina.Server logJVM
 INFO : Server number:		1.0.1
-02 24, 2021 18:24:44 下午 cn.how2j.diytomcat.catalina.Server logJVM
+03 09, 2021 17:48:51 下午 cn.how2j.diytomcat.catalina.Server logJVM
 INFO : OS Name	:		Windows 10
-02 24, 2021 18:24:44 下午 cn.how2j.diytomcat.catalina.Server logJVM
+03 09, 2021 17:48:51 下午 cn.how2j.diytomcat.catalina.Server logJVM
 INFO : OS Version:		10.0
-02 24, 2021 18:24:44 下午 cn.how2j.diytomcat.catalina.Server logJVM
+03 09, 2021 17:48:51 下午 cn.how2j.diytomcat.catalina.Server logJVM
 INFO : Architecture:		amd64
-02 24, 2021 18:24:44 下午 cn.how2j.diytomcat.catalina.Server logJVM
+03 09, 2021 17:48:51 下午 cn.how2j.diytomcat.catalina.Server logJVM
 INFO : Java Home:		D:\software\java\jre
-02 24, 2021 18:24:44 下午 cn.how2j.diytomcat.catalina.Server logJVM
+03 09, 2021 17:48:51 下午 cn.how2j.diytomcat.catalina.Server logJVM
 INFO : JVM Version:		1.8.0_261-b12
-02 24, 2021 18:24:44 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Vendor:		Oracle Corporation
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory d:/project/diytomcat/b
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 64 ms
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\a
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 0 ms
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server version:		How2J DiyTomcat/1.0.1
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server built:		2020-04-08 10:20:22
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server number:		1.0.1
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Name	:		Windows 10
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Version:		10.0
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Architecture:		amd64
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Java Home:		D:\software\java\jre
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Version:		1.8.0_261-b12
-02 24, 2021 18:28:54 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Vendor:		Oracle Corporation
-02 24, 2021 18:32:01 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory d:/project/diytomcat/b
-02 24, 2021 18:32:01 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 174 ms
-02 24, 2021 18:32:03 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\a
-02 24, 2021 18:32:03 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 0 ms
-02 24, 2021 18:32:03 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
-02 24, 2021 18:32:03 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
-02 24, 2021 18:32:58 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server version:		How2J DiyTomcat/1.0.1
-02 24, 2021 18:32:58 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server built:		2020-04-08 10:20:22
-02 24, 2021 18:32:58 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server number:		1.0.1
-02 24, 2021 18:32:58 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Name	:		Windows 10
-02 24, 2021 18:32:58 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Version:		10.0
-02 24, 2021 18:32:58 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Architecture:		amd64
-02 24, 2021 18:32:58 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Java Home:		D:\software\java\jre
-02 24, 2021 18:32:58 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Version:		1.8.0_261-b12
-02 24, 2021 18:32:58 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Vendor:		Oracle Corporation
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory d:/project/diytomcat/b
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 63 ms
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\a
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 0 ms
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server version:		How2J DiyTomcat/1.0.1
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server built:		2020-04-08 10:20:22
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server number:		1.0.1
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Name	:		Windows 10
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Version:		10.0
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Architecture:		amd64
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Java Home:		D:\software\java\jre
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Version:		1.8.0_261-b12
-02 24, 2021 18:35:41 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Vendor:		Oracle Corporation
-02 24, 2021 18:42:46 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory d:/project/diytomcat/b
-02 24, 2021 18:42:46 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 172 ms
-02 24, 2021 18:42:46 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\a
-02 24, 2021 18:42:46 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 0 ms
-02 24, 2021 18:42:46 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
-02 24, 2021 18:42:46 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
-02 24, 2021 18:43:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server version:		How2J DiyTomcat/1.0.1
-02 24, 2021 18:43:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server built:		2020-04-08 10:20:22
-02 24, 2021 18:43:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server number:		1.0.1
-02 24, 2021 18:43:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Name	:		Windows 10
-02 24, 2021 18:43:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Version:		10.0
-02 24, 2021 18:43:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Architecture:		amd64
-02 24, 2021 18:43:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Java Home:		D:\software\java\jre
-02 24, 2021 18:43:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Version:		1.8.0_261-b12
-02 24, 2021 18:43:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Vendor:		Oracle Corporation
-02 24, 2021 18:54:58 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory d:/project/diytomcat/b
-02 24, 2021 18:54:58 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 79 ms
-02 24, 2021 18:54:58 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\a
-02 24, 2021 18:54:58 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 0 ms
-02 24, 2021 18:54:58 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\ext
-02 24, 2021 18:54:58 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ext has finished in 0 ms
-02 24, 2021 18:54:58 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
-02 24, 2021 18:54:58 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
-02 24, 2021 18:54:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server version:		How2J DiyTomcat/1.0.1
-02 24, 2021 18:54:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server built:		2020-04-08 10:20:22
-02 24, 2021 18:54:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server number:		1.0.1
-02 24, 2021 18:54:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Name	:		Windows 10
-02 24, 2021 18:54:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Version:		10.0
-02 24, 2021 18:54:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Architecture:		amd64
-02 24, 2021 18:54:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Java Home:		D:\software\java\jre
-02 24, 2021 18:54:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Version:		1.8.0_261-b12
-02 24, 2021 18:54:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Vendor:		Oracle Corporation
-02 24, 2021 19:21:09 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory d:/project/diytomcat/b
-02 24, 2021 19:21:09 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 78 ms
-02 24, 2021 19:21:09 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\a
-02 24, 2021 19:21:09 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 0 ms
-02 24, 2021 19:21:09 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\ext
-02 24, 2021 19:21:09 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ext has finished in 0 ms
-02 24, 2021 19:21:09 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
-02 24, 2021 19:21:09 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
-02 24, 2021 19:21:10 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server version:		How2J DiyTomcat/1.0.1
-02 24, 2021 19:21:10 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server built:		2020-04-08 10:20:22
-02 24, 2021 19:21:10 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server number:		1.0.1
-02 24, 2021 19:21:10 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Name	:		Windows 10
-02 24, 2021 19:21:10 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Version:		10.0
-02 24, 2021 19:21:10 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Architecture:		amd64
-02 24, 2021 19:21:10 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Java Home:		D:\software\java\jre
-02 24, 2021 19:21:10 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Version:		1.8.0_261-b12
-02 24, 2021 19:21:10 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Vendor:		Oracle Corporation
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory d:/project/diytomcat/b
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 56 ms
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\a
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 0 ms
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\ext
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ext has finished in 0 ms
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server version:		How2J DiyTomcat/1.0.1
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server built:		2020-04-08 10:20:22
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server number:		1.0.1
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Name	:		Windows 10
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Version:		10.0
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Architecture:		amd64
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Java Home:		D:\software\java\jre
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Version:		1.8.0_261-b12
-02 24, 2021 20:50:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Vendor:		Oracle Corporation
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory d:/project/diytomcat/b
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 70 ms
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\a
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 0 ms
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\ext
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ext has finished in 0 ms
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Context <init>
-INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server version:		How2J DiyTomcat/1.0.1
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server built:		2020-04-08 10:20:22
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Server number:		1.0.1
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Name	:		Windows 10
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : OS Version:		10.0
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Architecture:		amd64
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : Java Home:		D:\software\java\jre
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Server logJVM
-INFO : JVM Version:		1.8.0_261-b12
-02 24, 2021 20:51:33 下午 cn.how2j.diytomcat.catalina.Server logJVM
+03 09, 2021 17:48:51 下午 cn.how2j.diytomcat.catalina.Server logJVM
 INFO : JVM Vendor:		Oracle Corporation

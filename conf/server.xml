@@ -5,6 +5,9 @@
         <Host name = "localhost">
             <Context path="/b" docBase="d:/project/diytomcat/b" />
         </Host>
+        <Host name = "localhost2">
+            <Context path="/c" docBase="d:/project/diytomcat/c" />
+        </Host>
     </Engine>
     </Service>
 </Server>

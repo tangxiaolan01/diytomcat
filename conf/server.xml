@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Server>
     <Service name="Catalina">
-    <Engine defautHost = "localhost">
+     <Connector port="18080"/>
+     <Connector port="18081"/>
+     <Connector port="18082"/>
+     <Engine defautHost = "localhost">
         <Host name = "localhost">
             <Context path="/b" docBase="d:/project/diytomcat/b" />
-        </Host>
-        <Host name = "localhost2">
-            <Context path="/c" docBase="d:/project/diytomcat/c" />
         </Host>
     </Engine>
     </Service>
